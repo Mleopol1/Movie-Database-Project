@@ -24,5 +24,5 @@ One area of improvement for this project would be to clean up any null values th
 
 ## Contributors
    * Heather Adams ([@hadamzz](https://github.com/hadamzz "Heather"))
-   * Matt Leopold ([@mleopol1](https://github.com/mleopol1 "Matt"))
+   * Matt Leopold ([@Mleopol1](https://github.com/mleopol1 "Matt"))
    * Tanner Hunter ([@Tanner-Hunter](https://github.com/Tanner-Hunter "Tanner"))
